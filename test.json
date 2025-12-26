@@ -1,0 +1,11 @@
+{
+  "modelId": "meta.llama3-70b-instruct-v1:0",
+  "contentType": "application/json",
+  "accept": "application/json",
+  "body": {
+    "prompt": "<s>[INST] You are a very intelligent assistant. Explain clearly. [/INST]",
+    "max_gen_len": 512,
+    "temperature": 0.3,
+    "top_p": 0.9
+  }
+}
