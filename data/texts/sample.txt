@@ -1,0 +1,25 @@
+AWS Bedrock Overview
+
+AWS Bedrock is a fully managed service that provides access to high-performing foundation models (FMs) from leading AI companies through a single API. It allows developers to build and scale generative AI applications without managing infrastructure.
+
+Key Features of AWS Bedrock:
+1. Fully managed service with serverless infrastructure.
+2. Access to multiple foundation models such as Amazon Titan, AI21 Labs, Anthropic, and Meta LLaMA.
+3. Secure and private model inference using AWS security standards.
+4. Native integration with AWS services such as IAM, CloudWatch, and S3.
+
+Amazon Titan Models:
+Amazon Titan models are developed by AWS and include text generation, text embeddings, and multimodal capabilities. Titan embedding models are commonly used for semantic search, document retrieval, and retrieval-augmented generation (RAG).
+
+Use Cases of AWS Bedrock:
+- Chatbots and virtual assistants
+- Document question answering
+- Knowledge base search
+- Text summarization
+- Content generation
+
+Security and Compliance:
+AWS Bedrock does not store customer prompts or responses. Data is encrypted in transit and at rest. Customers retain full control over their data.
+
+Conclusion:
+AWS Bedrock simplifies the development of generative AI applications by providing secure, scalable, and flexible access to foundation models.

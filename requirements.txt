@@ -1,2 +1,7 @@
 boto3
-awscli
+langchain
+langchain-community
+langchain-aws
+faiss-cpu
+pypdf
+python-dotenv
