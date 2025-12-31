@@ -3,6 +3,6 @@ import os
 
 def get_llm():
     return ChatBedrock(
-        model_id="anthropic.claude-3-sonnet-20240229-v1:0",
+        model_id="amazon.titan-text-express-v1",
         region_name=os.getenv("AWS_REGION")
     )
